@@ -25,7 +25,7 @@ export const AdviceApp = () => {
       </div>
 
       <div className="foot">
-            <h2>Developed By M Kaarthik</h2>
+            <h2>Developed By M Kaarthik 23MIS0050</h2>
       </div>
 
     </>
